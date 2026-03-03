@@ -2,7 +2,7 @@
 Best Facebook video downloader – download Facebook videos in HD, 1080p, and private videos.
 # Getfvid – Facebook Video Downloader
 
-[Getfvid](https://getfvid.io) is a free online tool to **download Facebook videos** in HD, including **1080p quality** and even **private videos**.
+**GetFVid** is a free online tool to **download Facebook videos** in HD, including **1080p quality** and even **private videos**.
 
 ## 🔥 Features
 - Download Facebook public and private videos
@@ -11,10 +11,8 @@ Best Facebook video downloader – download Facebook videos in HD, 1080p, and pr
 
 ## 📌 How to Use
 1. Copy the Facebook video URL
-2. Paste it at [https://getfvid.io](https://getfvid.io)
+2. Paste it at [https://getfvid.io/](https://getfvid.io/)
 3. Download with one click
-
-> Try it now: [Private Facebook Video Downloader](https://getfvid.io/private-facebook-video-downloader)
 
 ---
 
