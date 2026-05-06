@@ -11,7 +11,7 @@ Best Facebook video downloader – download Facebook videos in HD, 1080p, and pr
 
 ## 📌 How to Use
 1. Copy the Facebook video URL
-2. Paste it at [https://getfvid.io/](https://getfvid.io/)
+2. Paste it at [https://en.getfvid.io/](https://en.getfvid.io/)
 3. Download with one click
 
 ---
